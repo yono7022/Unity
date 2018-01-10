@@ -13,5 +13,6 @@ public class test : MonoBehaviour {
 		int a = 1;
 		Debug.Log (a);
 		string a=null;
+		string b=null;
 	}
 }
